@@ -2,7 +2,7 @@ const products = [
     {
         _id: '1',
         name: 'Apple iPhone 11 64GB Black',
-        image: '/images/Iphone11.png',
+        image: '/images/iphone11.jpg',
         description:
             'The long-awaited replacement to the unprecedented hit of the iPhone XR, this is a cutdown handset that is packed full of the best iPhone features and comes with a really excellent price tag widening the marketplace.',
         brand: 'Apple',
@@ -14,8 +14,8 @@ const products = [
     },
     {
         _id: '2',
-        name: 'Wireless Ultra Slim Charging Pad Black 10W Devia',
-        image: '/images/Charging-Pad.png',
+        name: 'Wireless Slim Charging Pad Black 10W Devia',
+        image: '/images/pad.jpg',
         description:
             'There is no need to plug in your phone anymore, lay your phone on this ultra slim, wireless charger by Xquisite for a quick power up. This sleek, minimal pad can be kept anywhere for a discreet quick charge.',
         brand: 'Devia',
@@ -28,7 +28,7 @@ const products = [
     {
         _id: '3',
         name: 'iPhone SE Glass Screen Protector Xquisite',
-        image: '/images/Screen-Protector.png',
+        image: '/images/protector.jpg',
         description:
             'Keep your iPhone SE safe from a smashed screen with the tempered glass screen protector from Xquisite. With shatter proof glass and chip resistant edges, you can rely on this accessory.',
         brand: 'Xquisite',
@@ -41,7 +41,7 @@ const products = [
     {
         _id: '4',
         name: 'iPhone 11 ProGrip Case Xquisite Black',
-        image: '/images/Iphone11-case.png',
+        image: '/images/case.jpg',
         description:
             'The iPhone 11 ProGrip case from Xquisite is built designed with style and protection in mind. A super sleek appearance paired with two layers of shock absorbent material are sure to keep your phone safe.',
         brand: 'Xquisite',
@@ -54,7 +54,7 @@ const products = [
     {
         _id: '5',
         name: 'iPhone Lightning Cable 1m White Devia',
-        image: '/images/Charger.png',
+        image: '/images/charger.jpg',
         description:
             'Keep a spare lightening cable for all those times someone ‘borrows’ yours and you find yourself stuck with no charger. The Devia 1 metre charging cable is your best option.',
         brand: 'Devia',
@@ -67,7 +67,7 @@ const products = [
     {
         _id: '6',
         name: 'Apple Air Pods 2nd Generation White',
-        image: '/images/Airpods.png',
+        image: '/images/airpods.jpg',
         description:
             'These 2nd Generation AirPods with charging case will hit you with an outstanding Bluetooth music performance.',
         brand: 'Apple',
