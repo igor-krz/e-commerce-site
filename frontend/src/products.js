@@ -21,7 +21,7 @@ const products = [
         brand: 'Devia',
         category: 'Accessories',
         price: 19.99,
-        countInStock: 3,
+        countInStock: 0,
         rating: 5,
         numReviews: 5,
     },
