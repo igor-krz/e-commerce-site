@@ -1,19 +1,19 @@
 const products = [
     {
-        _id: '1',
+
         name: 'Apple iPhone 11 64GB Black',
         image: '/images/iphone11.jpg',
         description:
             'The long-awaited replacement to the unprecedented hit of the iPhone XR, this is a cutdown handset that is packed full of the best iPhone features and comes with a really excellent price tag widening the marketplace.',
         brand: 'Apple',
         category: 'Phones',
-        price: 729.00,
+        price: 729.99,
         countInStock: 4,
         rating: 4.5,
         numReviews: 4,
     },
     {
-        _id: '2',
+
         name: 'Wireless Slim Charging Pad Black 10W Devia',
         image: '/images/pad.jpg',
         description:
@@ -21,12 +21,12 @@ const products = [
         brand: 'Devia',
         category: 'Accessories',
         price: 19.99,
-        countInStock: 3,
+        countInStock: 0,
         rating: 5,
         numReviews: 5,
     },
     {
-        _id: '3',
+
         name: 'iPhone SE Glass Screen Protector Xquisite',
         image: '/images/protector.jpg',
         description:
@@ -39,7 +39,7 @@ const products = [
         numReviews: 2,
     },
     {
-        _id: '4',
+
         name: 'iPhone 11 ProGrip Case Xquisite Black',
         image: '/images/case.jpg',
         description:
@@ -52,7 +52,7 @@ const products = [
         numReviews: 1,
     },
     {
-        _id: '5',
+
         name: 'iPhone Lightning Cable 1m White Devia',
         image: '/images/charger.jpg',
         description:
@@ -65,14 +65,14 @@ const products = [
         numReviews: 6,
     },
     {
-        _id: '6',
+
         name: 'Apple Air Pods 2nd Generation White',
         image: '/images/airpods.jpg',
         description:
             'These 2nd Generation AirPods with charging case will hit you with an outstanding Bluetooth music performance.',
         brand: 'Apple',
         category: 'Accessories',
-        price: 135.00,
+        price: 135.99,
         countInStock: 9,
         rating: 4.5,
         numReviews: 2,
