@@ -1,6 +1,6 @@
 const products = [
     {
-        _id: '1',
+
         name: 'Apple iPhone 11 64GB Black',
         image: '/images/iphone11.jpg',
         description:
@@ -13,7 +13,7 @@ const products = [
         numReviews: 4,
     },
     {
-        _id: '2',
+
         name: 'Wireless Slim Charging Pad Black 10W Devia',
         image: '/images/pad.jpg',
         description:
@@ -26,7 +26,7 @@ const products = [
         numReviews: 5,
     },
     {
-        _id: '3',
+
         name: 'iPhone SE Glass Screen Protector Xquisite',
         image: '/images/protector.jpg',
         description:
@@ -39,7 +39,7 @@ const products = [
         numReviews: 2,
     },
     {
-        _id: '4',
+
         name: 'iPhone 11 ProGrip Case Xquisite Black',
         image: '/images/case.jpg',
         description:
@@ -52,7 +52,7 @@ const products = [
         numReviews: 1,
     },
     {
-        _id: '5',
+
         name: 'iPhone Lightning Cable 1m White Devia',
         image: '/images/charger.jpg',
         description:
@@ -65,7 +65,7 @@ const products = [
         numReviews: 6,
     },
     {
-        _id: '6',
+
         name: 'Apple Air Pods 2nd Generation White',
         image: '/images/airpods.jpg',
         description:
